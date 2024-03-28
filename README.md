@@ -58,5 +58,4 @@ const requestStream = async () => {
 ```
 
 This allows displaying the stream while keeping the connection open with repeated requests.
-
 Let me know if you would like me to clarify or expand on any part!
